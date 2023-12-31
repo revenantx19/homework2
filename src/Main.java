@@ -59,5 +59,6 @@ public class Main {
         System.out.println("Маша теперь получает " + mary*1.1 + ". Годовой доход вырос на " + (mary*1.1-mary)*12 + " рублей");
         System.out.println("Денис теперь получает " + Math.ceil(den*1.1) + ". Годовой доход вырос на " + Math.ceil((den*1.1-den)*12) + " рублей");
         System.out.println("Кристина теперь получает " + cris*1.1 + ". Годовой доход вырос на " + (cris*1.1-cris)*12 + " рублей");
+
     }
 }
